@@ -19,13 +19,13 @@ At some point in the campaign we may add in one of the GW Crusade mission packs,
 
 There are two deviations from the above rules however:
 
-1. Points instead of Power Level
+- **1) Points instead of Power Level**
 
 When selecting "Orders of Battle" and mustering armies we will use points instead of power level.
 
 Where PL is mentioned in the crusade rules the exchange rate is 1PL = 20points.
 
-2. Traits/Scars/Bonus' determined randomly
+- **2) Traits/Scars/Bonus' determined randomly**
 
 Whenever a battle trait, scar or faciton specific bonues _can_ be randomly determined, it must be*
 
@@ -40,9 +40,11 @@ How do I get started
 
 Firstly do two things:
 
-1) **Read the Rules**
-2) **Pick a Faction**
-3) **Write your Order of Battle**
+- **1) Read the Rules**
+
+- **2) Pick a Faction**
+
+- **3) Write your Order of Battle**
 
 The starting Order of Battle limit is 1000 points, so before our first game we each need to submit an order of battle of at least 500, but up to 1000 points.
 
@@ -52,13 +54,13 @@ The first months games will be at 500 points (Combat Patrol) and we will gradual
 
 Order of Battle amendments can be done after each game as per the rules in the rulebook.
 
-4) **Thematic Additions**
+- **4) Thematic Additions**
 
 As part of your Order of battle your Warlord also needs a suitably thematic name. **Any unnamed warlords will be named by me**. You have been warned.
 
 I would also encourage you to name your "Order of Battle" thematically too, it is crusade after all... **Any unnamed Orders of Battle may also be named by me**. You have been warned.
 
-5) **Let me know the above**
+- **5) Let me know the above**
 
 Before game 1, please write and submit to me:
 
@@ -123,10 +125,10 @@ At the time of writing the factions are:
 | --- | --- |
 | Joel | Bad Mech (Chaos)* |
 | Gareth | Eldar (Aeldari) |
-| Mike | Black Templars |
-| Matt | Genestaler Cults |
-| Keron | Ad Mech |
-| Aran | Dark Eldar |
+| Mike | Black Templars (Imperioum) |
+| Matt | Genestaler Cults (Tyranids) |
+| Keron | Ad Mech (Imperium) |
+| Aran | Dark Eldar (Aeldari) |
 | Mark | Custodes (Imperium) |
 | Me | Thousand Sons (Chaos) |
 
