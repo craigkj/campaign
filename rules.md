@@ -1,6 +1,6 @@
- # Getting Started
+# Welcome!
 
-Welcome! Below is the *draft* ruleset for the eagerly anticipated Crusade campaign 2022!
+Below is the *draft* ruleset for the eagerly anticipated Crusade campaign 2022!
 
 The name of the campaign is currently TBC. Ideas Welcome.
 
