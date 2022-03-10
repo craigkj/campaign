@@ -58,7 +58,7 @@ Additional rerolls can be purchased at a cost of 2 Requisition Points each.
 How do I get started?
 ---
 
-Firstly do two things:
+Theres a bit of paperwork to do!
 
 - **1) Read the Rules!**
 
