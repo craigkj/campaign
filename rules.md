@@ -144,12 +144,12 @@ At the time of writing the factions are:
 | --- | --- |
 | Joel | Bad Mech (Chaos)* |
 | Gareth | Eldar (Aeldari) |
-| Mike | Black Templars (Imperioum) |
-| Matt | Genestaler Cults (Tyranids) |
+| Mike | Black Templars (Imperium) |
+| Matt | Genestealer Cults (Tyranids) |
 | Keron | Ad Mech (Imperium) |
 | Aran | Dark Eldar (Aeldari) |
 | Mark | Custodes (Imperium) |
-| Me | Thousand Sons (Chaos) |
+| Me | Thousand Sons (Tzeentch, Chaos) |
 
 **For the purpose of the campaign, Joels Ad Mech units have the `<Chaos>` keyword in place of any and all instances of `<Imperium>`.*
 
