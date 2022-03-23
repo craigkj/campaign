@@ -117,9 +117,9 @@ After that, we will play the following mission sets and game sizes:
 | Round | Mission Set | Point Limit |
 | ------------- | ------------- | ------------- |
 | 1  | Combat Patrol  | 500 |
-| 2  | Incursion  | 650  | 
-| 3  | Incursion  | 800 |
-| 4  | Incursion  | 1000 |
+| 2  | Incursion  | 700  | 
+| 3  | Incursion  | 900 |
+| 4  | Incursion  | 1100 |
 | 5+ | TBC | TBC |
 
 The rulebook contains the rules for setting up the table and starting the game.
@@ -153,7 +153,7 @@ At the time of writing the factions are:
 | Mike | Black Templars (Imperium) |
 | Matt | Genestealer Cults (Tyranids) |
 | Keron | Ad Mech (Imperium) |
-| Aran | Dark Eldar (Aeldari) |
+| Aran | Tyranids (Tyranids) |
 | Mark | Custodes (Imperium) |
 | Me | Thousand Sons (Tzeentch, Chaos) |
 
