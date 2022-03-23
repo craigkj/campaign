@@ -36,9 +36,9 @@ Instead escalation of forces will be done in the following way:
 | Round  | Order of Battle Limit | Game Size |
 | ------------- | ------------- | ------------- |
 | 1  | 1000  | 500 |
-| 2  | 1150  | 650 | 
-| 3  | 1300  | 800 |
-| 4  | 1500 | 1000 |
+| 2  | 1150  | 700 | 
+| 3  | 1300  | 900 |
+| 4  | 1500 | 1100 |
 | 5+ | TBC | TBC |
 
 - **3) Players start with 4 RP instead of 5, and the limit they can have is also 4 instead of 5**
