@@ -8,7 +8,7 @@ Each round I'll draft some campaign story to set the scene. Each rounds story wi
 
 The campaign story:
 
-- [Round 1 - Planetfall](/month-1.md)
+- [Round 1 - Planetfall](/round-1.md)
 
 Initially each round will last for 1 calendar month, starting in April. This may change depending on how things progress.
 
