@@ -29,7 +29,7 @@ When selecting "Orders of Battle" and mustering armies we will use points instea
 
 Where PL is mentioned in the crusade rules the exchange rate is 1PL = 20points.
 
-- **2) the Requisition "Increase Supply Limit" is not in use.**
+- **2) The Requisition "Increase Supply Limit" is not in use.**
 
 Instead escalation of forces will be done in the following way:
 
@@ -54,6 +54,12 @@ To avoid particularly "feel bad" situations, each player will have two rerolls t
 Additional rerolls can be purchased at a cost of 2 Requisition Points each.
 
 **thematic exceptions can be made with a good explanation!*
+
+- **5) "Marked for Greatness" at the end of battle is selected by opponent**
+
+*Reminder: This is the unit that gains extra experience at the end of a battle*
+
+The unit should be selected by the opponent as a "Unit of the match". The one that did the best/coolest/most-thematic thing, not just the unit that wants a cool upgrade the most.
 
 How do I get started?
 ---

@@ -1,3 +1,9 @@
+#The Scions of B'Faen
+
+**Faction**: Thousand Sons (Chaos)
+
+**Lore**:
+
 As he sat, calmly and serenely, his hours long meditation coming slowly to an end, a bright spark startled Exaulted Sorceror Qi'th and almost caused him to lose his grip on his warp travel, throwing his focus into disarray. "What. Was. That" he muttered as he awoke back in his mortal body, the words as dry as ash, barely containing a zealous fury.
 
 He looked to his left, the scanners on his ship, the Vulv-Oh had picked up a faint signal originating from the same location. It was by their standards unremarkable. Such fluctuations were detected many times per hour as distant stars died, and the warp flexe, however Qi'th knew this was different. This was no mere fluctuation in the warp, distant explosion, or long wave radio signal. No, this was something else altogether. 
@@ -8,34 +14,31 @@ The mission he had been sent on - to disrupt the activities of an imperial fleet
 
 Yes, this was much more important. Whatever it was, Qi'th would have it.
 
-# Order of Battle // 
-
-**Name**: Scions of B'Faen
+## Order of Battle
 
 ---
 
 **Name**: Qi'th
 
-Exaulted Sorcerer
 **Warlord**
+Exaulted Sorcerer
 *+Force Stave and Plasma Pistol
-+Paradigm of  Change*
 
 *Psychic Powers*
 - *Smite*
 - *Doombolt*
-- *Swelled by the Warp*
-
-115 points
+- *Swelled by the Warp | Temporal Surge*
 
 > "I've read lots of books about war. Sounds easy..."
+
+100 points
 
 ---
 
 **Name**: Q'ronk
 Maulerfiend
 *+Lasher Tendrils*
-> "Knowledge is the key to most doors. For the rest, we have have Q'ronk" - Qi'th
+> "Knowledge is the key to most doors. For the rest we have have Q'ronk" - Qi'th
 
 150 points
 
@@ -76,7 +79,7 @@ Aspiring Sorcerer & 4 Rubric Marines
 **Name**: Gri'Bleh'
 Chaos Spawn
 
-> "We don't walk about Gri'Bleh" - Qi'th
+> "BRRRRRRROOOOOOOORRR" - Q'ronk
 
 23 points
 
@@ -105,7 +108,8 @@ Scarab Occult Sorceror & 4 Scarab Occult Terminators
 10 Chaos Cultists
 *+10 Brutal assault weapons*
 
+> "Flimsy mortals in the thrall of mighty Qi'th! ...and probably Tzeentch too. They like to stand out front..." - Qi'th
+
 50 points
 
-> "Flimsy mortals in the thrall of mighty Qi'th! ...and probably Tzeentch too. They like to stand out front..." - Qi'th
----
+Total: 783points
