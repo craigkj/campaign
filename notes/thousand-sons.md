@@ -27,6 +27,7 @@ RP: 2
 **Name**: Qi'Th
 
 **Warlord**
+
 Exaulted Sorcerer
 *+Force Stave and Bolt Pistol*
 *+Relic: Conniving Plate*
