@@ -1,62 +1,56 @@
-#The Scions of B'Faen
+# The Scions of B'Faen
 
-**Faction**: Thousand Sons (Chaos)
+**Faction**: Thousand Sons (Chaos) - Cult of Duplicity
 
 **Lore**:
 
-As he sat, calmly and serenely, his hours long meditation coming slowly to an end, a bright spark startled Exaulted Sorceror Qi'th and almost caused him to lose his grip on his warp travel, throwing his focus into disarray. "What. Was. That" he muttered as he awoke back in his mortal body, the words as dry as ash, barely containing a zealous fury.
+As he sat, calmly and serenely, his hours long meditation coming slowly to an end, a bright spark startled Exaulted Sorceror Qi'Th and almost caused him to lose his grip on his warp travels, throwing his focus into disarray. "What. Was. That" he muttered as he awoke, flung back in his mortal body. The words as dry as ash, barely containing a zealous fury that had come from nowhere.
 
-He looked to his left, the scanners on his ship, the Vulv-Oh had picked up a faint signal originating from the same location. It was by their standards unremarkable. Such fluctuations were detected many times per hour as distant stars died, and the warp flexe, however Qi'th knew this was different. This was no mere fluctuation in the warp, distant explosion, or long wave radio signal. No, this was something else altogether. 
+He looked to his left, though his psychic presence told him what he would see faster than the muscles in his neck could react. Ship scanners the had picked up a faint signal originating from the same location. It was by their standards unremarkable as such fluctuations were detected many times per hour as distant stars died or the warp flexed, however Qi'Th knew this was different. This was no mere fluctuation, distant explosion, or long wave radio signal. No, this was something else altogether. It was the sound of knowledge calling out to be discovered, to be understood, and to be assimilated into the library of Magnus. What a sweet song it was.
 
-He would claim it, and the knowledge he was sure it would reveal, and pass that knowledge to his master, showing him his strength and dedication to his cause.
+Qi'Th would claim it. There was no greater mission for the sons of Magnus than the pursuit of knowledge. Knowledge would give them power, and with power they would reign supreme over all.
 
-The mission he had been sent on - to disrupt the activities of an imperial fleet approaching worlds that were quitely in Tzeench's thrall, could wait. What were the lives of a few mortal minions compared to any promise of new knowledge, after all.
+His existing mission to disrupt the activities of an imperial fleet approaching worlds that were quietly in Tzeench's thrall could wait. What were the lives of a few mortal minions compared to any promise of new knowledge, after all.
 
-Yes, this was much more important. Whatever it was, Qi'th would have it.
+Kra'on his second in command read his thoughts - those that Qi'Th chose to make available on at least - and began the process of waking his daemon engines ready for descent. They would be useful here, they always were.
+
+Yes, this discovery was much more important. Whatever it was, Qi'th would have it.
 
 ## Order of Battle
 
 ---
 
-**Name**: Qi'th
+**Name**: Qi'Th
 
 **Warlord**
 Exaulted Sorcerer
-*+Force Stave and Plasma Pistol
+*+Force Stave and Bolt Pistol
 
 *Psychic Powers*
 - *Smite*
 - *Doombolt*
-- *Swelled by the Warp | Temporal Surge*
-
-> "I've read lots of books about war. Sounds easy..."
+- *Temporal Surge*
+- *Sorcerous Facade*
 
 100 points
 
 ---
 
-**Name**: Q'ronk
-Maulerfiend
-*+Lasher Tendrils*
-> "Knowledge is the key to most doors. For the rest we have have Q'ronk" - Qi'th
+**Name**: Kra'on
 
-150 points
+Infernal Master
+*+Force Stave and Bolt Pistol
 
----
-
-**Name**: Fires of Qi'th
-Aspiring Sorcerer & 4 Rubric Marines
-*+Force Stave and Inferno Bolt Pistol
-+3x Inferno Boltgun
-+1x Soulreaper Cannon*
-
-*Psychic*
+*Psychic Powers*
 - *Smite*
-- *Prescience*
+- *Sorcerous Facade*
+- "Weaver of Fates"
 
-> "To be honest, these guys don't say too much." - Qi'th
+*Pacts*
+- *Malefic Maelstrom*
+- *Glimpse of Eternity*
 
-115 points
+90 points
 
 ---
 
@@ -66,20 +60,19 @@ Aspiring Sorcerer & 4 Rubric Marines
 +3x Inferno Boltgun
 +1x Soulreaper Cannon*
 
-*Psychic*
+*Psychic Powers*
 - *Smite*
-- *Glamour of Tzeentch*
+- *Sorcerous Facade*
+- *Prescience*
 
-> "Oh there are two groups of these guys?" - Qi'th
+> "To be honest, these guys don't say too much." - Qi'th
 
 115 points
 
 ---
 
-**Name**: Gri'Bleh'
+**Name**: Folly
 Chaos Spawn
-
-> "BRRRRRRROOOOOOOORRR" - Q'ronk
 
 23 points
 
@@ -87,18 +80,18 @@ Chaos Spawn
 
 **Name**: Praetorians of Qi'th 
 Scarab Occult Sorceror & 4 Scarab Occult Terminators
-*+Rites of Coalescence
 +1x Force Stave
 +3x Inferno Combi Bolter
 +1x Soulreaper Cannon
 +4x Prosperine Khopesh
 +1x Hellfyre Missile Rack*
 
-*Psychic*
+*Psychic Powers*
 - *Smite*
-- *Prescience*
+- *Sorcerous Facade*
+- *Glamour of Tzeentch*
 
-> "Also quiet... and they eat a lot." - Qi'th
+> “Praetorians. Protectorate of the Sanctum of Qi’th and keepers of knowledge. Also quiet…” – Qi’Th
 
 230 points
 
@@ -112,4 +105,34 @@ Scarab Occult Sorceror & 4 Scarab Occult Terminators
 
 50 points
 
-Total: 783points
+---
+
+**Name**: The Other Trailing Hordes
+10 Tzaangor
+*+10 Tzaangor Blades*
+
+> “The truly dedicated to Tzeentch” – Kra’on
+
+70 points
+
+---
+
+**Name**: Q'ronk
+Maulerfiend
+*+Lasher Tendrils*
+> "Knowledge is the key to almost all doors. For the ones it is not, we have Q’ronk" – Qi’Th
+
+150 points
+
+---
+
+**Name**: H'okk
+Helldrake
+*+Hades Autocannon*
+> "Hokkkkkkkk" – H'oKk
+
+165 points
+
+---
+
+**Total**: 978 points
