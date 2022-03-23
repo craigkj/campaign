@@ -29,6 +29,7 @@ RP: 2
 **Warlord**
 
 Exaulted Sorcerer
+
 *+Force Stave and Bolt Pistol*
 *+Relic: Conniving Plate*
 *+Warlord Trait: Undying Form*
@@ -48,6 +49,7 @@ Crusade Points: 2
 **Name**: Kra'on
 
 Infernal Master
+
 *+Force Stave and Bolt Pistol*
 
 *Psychic Powers*
@@ -64,7 +66,9 @@ Infernal Master
 ---
 
 **Name**: Bolts of Qi'th
+
 Aspiring Sorcerer & 4 Rubric Marines
+
 *+Force Stave and Inferno Bolt Pistol
 +3x Inferno Boltgun
 +1x Soulreaper Cannon*
@@ -81,6 +85,7 @@ Aspiring Sorcerer & 4 Rubric Marines
 ---
 
 **Name**: Folly
+
 Chaos Spawn
 
 23 points
@@ -88,7 +93,9 @@ Chaos Spawn
 ---
 
 **Name**: Praetorians of Qi'th 
+
 Scarab Occult Sorceror & 4 Scarab Occult Terminators
+
 +1x Force Stave
 +3x Inferno Combi Bolter
 +1x Soulreaper Cannon
@@ -107,7 +114,9 @@ Scarab Occult Sorceror & 4 Scarab Occult Terminators
 ---
 
 **Name**: The Trailing Hordes
+
 10 Chaos Cultists
+
 *+10 Brutal assault weapons*
 
 > "Flimsy mortals in the thrall of mighty Qi'th! ...and probably Tzeentch too. They like to stand out front..." - Qi'th
@@ -117,7 +126,9 @@ Scarab Occult Sorceror & 4 Scarab Occult Terminators
 ---
 
 **Name**: The Other Trailing Hordes
+
 10 Tzaangor
+
 *+10 Tzaangor Blades*
 
 > “The truly dedicated to Tzeentch” – Kra’on
@@ -127,8 +138,11 @@ Scarab Occult Sorceror & 4 Scarab Occult Terminators
 ---
 
 **Name**: Q'ronk
+
 Maulerfiend
+
 *+Lasher Tendrils*
+
 > "Knowledge is the key to almost all doors. For the ones it is not, we have Q’ronk" – Qi’Th
 
 150 points
@@ -136,8 +150,11 @@ Maulerfiend
 ---
 
 **Name**: H'okk
+
 Helldrake
+
 *+Hades Autocannon*
+
 > "Hokkkkkkkk" – H'oKk
 
 165 points
