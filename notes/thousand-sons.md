@@ -18,13 +18,19 @@ Yes, this discovery was much more important. Whatever it was, Qi'th would have i
 
 ## Order of Battle
 
+Battles: 0
+Victories: 0
+RP: 2
+
 ---
 
 **Name**: Qi'Th
 
 **Warlord**
 Exaulted Sorcerer
-*+Force Stave and Bolt Pistol
+*+Force Stave and Bolt Pistol*
+*+Relic: Conniving Plate*
+*+Warlord Trait: Undying Form*
 
 *Psychic Powers*
 - *Smite*
@@ -34,12 +40,14 @@ Exaulted Sorcerer
 
 100 points
 
+Crusade Points: 2
+
 ---
 
 **Name**: Kra'on
 
 Infernal Master
-*+Force Stave and Bolt Pistol
+*+Force Stave and Bolt Pistol*
 
 *Psychic Powers*
 - *Smite*
@@ -136,3 +144,16 @@ Helldrake
 ---
 
 **Total**: 978 points
+
+---
+
+### Crusade Goals
+
+TBC
+### Notable Victories
+
+TBC
+
+### Information
+
+TBC
