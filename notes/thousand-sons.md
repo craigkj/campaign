@@ -4,15 +4,15 @@
 
 **Lore**:
 
-As he sat, calmly and serenely, his hours long meditation coming slowly to an end, a bright spark startled Exaulted Sorceror Qi'Th and almost caused him to lose his grip on his warp travels, throwing his focus into disarray. "What. Was. That" he muttered as he awoke, flung back in his mortal body. The words as dry as ash, barely containing a zealous fury that had come from nowhere.
+As he sat, calmly and serenely, his hours long meditation continuing as he floated through the higher enumerations, a bright spark startled Exaulted Sorceror Qi'Th, throwing his focus into disaray and almost causing him to lose his grip on unreality. "What. Was. That" he muttered as he awoke, flung back in his mortal body. The words as dry as ash, barely containing a zealous fury that had come from nowhere.
 
-He looked to his left, though his psychic presence told him what he would see faster than the muscles in his neck could react. Ship scanners the had picked up a faint signal originating from the same location. It was by their standards unremarkable as such fluctuations were detected many times per hour as distant stars died or the warp flexed, however Qi'Th knew this was different. This was no mere fluctuation, distant explosion, or long wave radio signal. No, this was something else altogether. It was the sound of knowledge calling out to be discovered, to be understood, and to be assimilated into the library of Magnus. What a sweet song it was.
+He looked to his left, though his psychic presence told him what he would see faster than the muscles in his neck could react. Ship scanners had picked up a faint signal originating from the same location. It was by their standards unremarkable as such fluctuations were detected many times per hour as distant stars died or the warp flexed, however Qi'Th knew this was different. This was no mere fluctuation or distant explosion. No, this was something else altogether. It was the sound of knowledge calling out to be discovered, to be understood, and to be assimilated into the library of Magnus. What a sweet siren song it was.
 
-Qi'Th would claim it. There was no greater mission for the sons of Magnus than the pursuit of knowledge. Knowledge would give them power, and with power they would reign supreme over all.
+Qi'Th would claim it. There was no greater mission for the sons of Magnus than the pursuit of knowledge. Knowledge would give them power, and with power they would reign supreme.
 
-His existing mission to disrupt the activities of an imperial fleet approaching worlds that were quietly in Tzeench's thrall could wait. What were the lives of a few mortal minions compared to any promise of new knowledge, after all.
+His existing mission to disrupt the activities of an imperial fleet approaching worlds that were quietly in Tzeench's thrall, could wait. What were the lives of a few mortal minions compared to any promise of new knowledge, after all.
 
-Kra'on his second in command read his thoughts - those that Qi'Th chose to make available on at least - and began the process of waking his daemon engines ready for descent. They would be useful here, they always were.
+Kra'on his second in command read his thoughts - those that Qi'Th chose to make available at least - and began the process of waking his daemon engines ready for descent. They would be useful here, they always were.
 
 Yes, this discovery was much more important. Whatever it was, Qi'th would have it.
 
@@ -20,7 +20,7 @@ Yes, this discovery was much more important. Whatever it was, Qi'th would have i
 
 Battles: 0
 Victories: 0
-RP: 2
+RP: 1
 
 ---
 
@@ -37,7 +37,7 @@ Exaulted Sorcerer
 *Psychic Powers*
 - *Smite*
 - *Doombolt*
-- *Temporal Surge*
+- *Twist of Fate*
 - *Sorcerous Facade*
 
 100 points
@@ -51,17 +51,20 @@ Crusade Points: 2
 Infernal Master
 
 *+Force Stave and Bolt Pistol*
+*+Relic: Umbralefic Crystal*
 
 *Psychic Powers*
 - *Smite*
 - *Sorcerous Facade*
-- "Weaver of Fates"
+- *Weaver of Fates*
 
 *Pacts*
-- *Malefic Maelstrom*
+- *Fires of the Abyss*
 - *Glimpse of Eternity*
 
 90 points
+
+Crusade Points: 1
 
 ---
 
@@ -76,9 +79,28 @@ Aspiring Sorcerer & 4 Rubric Marines
 *Psychic Powers*
 - *Smite*
 - *Sorcerous Facade*
-- *Prescience*
+- *Presage*
 
 > "To be honest, these guys don't say too much." - Qi'th
+
+115 points
+
+---
+
+**Name**: Fires of Qi'th
+
+Aspiring Sorcerer & 4 Rubric Marines
+
+*+Force Stave and Inferno Bolt Pistol
++3x Inferno Boltgun
++1x Soulreaper Cannon*
+
+*Psychic Powers*
+- *Smite*
+- *Sorcerous Facade*
+- *Presage*
+
+> "Ever reliable, Stoic, Unrelenting." - Qi'th
 
 115 points
 
@@ -115,18 +137,6 @@ Scarab Occult Sorceror & 4 Scarab Occult Terminators
 
 **Name**: The Trailing Hordes
 
-10 Chaos Cultists
-
-*+10 Brutal assault weapons*
-
-> "Flimsy mortals in the thrall of mighty Qi'th! ...and probably Tzeentch too. They like to stand out front..." - Qi'th
-
-50 points
-
----
-
-**Name**: The Other Trailing Hordes
-
 10 Tzaangor
 
 *+10 Tzaangor Blades*
@@ -149,19 +159,23 @@ Maulerfiend
 
 ---
 
-**Name**: H'okk
 
-Helldrake
+**Name**: Sk'retch
 
-*+Hades Autocannon*
+Tzaangor Shaman
 
-> "Hokkkkkkkk" – H'oKk
+*Psychic Powers*
+- *Smite*
+- *Sorcerous Facade*
+- *Tzeentch's Firestorm*
 
-165 points
+> “Sometimes even the wretched can be blessed by Tzeentch” – Qi'Th
+
+70 points
 
 ---
 
-**Total**: 978 points
+**Total**: 948 points
 
 ---
 
